@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockgrtarifas</name>
+	<displayName><![CDATA[Mantenimiento Tarifas]]></displayName>
+	<version><![CDATA[0.9.212]]></version>
+	<description><![CDATA[Importaci&oacute;n de tarifas mediante Plantilla Excel 2007]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[blockgrtarifas]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
